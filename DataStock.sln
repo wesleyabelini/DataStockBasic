@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStock Basic", "DataStock\DataStock Basic.csproj", "{E739CF07-F671-47C7-8738-EE4DDE95FAA3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DataStock", "Setup\Setup.vdproj", "{EC2CB857-50EE-417C-A44E-9A27C295D170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E739CF07-F671-47C7-8738-EE4DDE95FAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E739CF07-F671-47C7-8738-EE4DDE95FAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E739CF07-F671-47C7-8738-EE4DDE95FAA3}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E739CF07-F671-47C7-8738-EE4DDE95FAA3}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{EC2CB857-50EE-417C-A44E-9A27C295D170}.Debug|Any CPU.ActiveCfg = Release
+		{EC2CB857-50EE-417C-A44E-9A27C295D170}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
